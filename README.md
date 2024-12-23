@@ -1,2 +1,2 @@
-# spectrocs-solusion
+# spectrics-solusion
 jobportal and pre_school
